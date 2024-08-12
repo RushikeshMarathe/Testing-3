@@ -1,0 +1,364 @@
+{
+  "students": [
+    {
+      "student_id": "001",
+      "name": "John Doe",
+      "age": 20,
+      "gender": "Male",
+      "grade": "A",
+      "courses": [
+        "Mathematics",
+        "Physics",
+        "Computer Science"
+      ],
+      "address": {
+        "street": "123 Main Street",
+        "city": "Anytown",
+        "state": "California",
+        "zipcode": "12345"
+      }
+    },
+    {
+      "student_id": "002",
+      "name": "Jane Smith",
+      "age": 22,
+      "gender": "Female",
+      "grade": "B+",
+      "courses": [
+        "Biology",
+        "Chemistry",
+        "English"
+      ],
+      "address": {
+        "street": "456 Elm Street",
+        "city": "Othertown",
+        "state": "New York",
+        "zipcode": "54321"
+      }
+    },
+    {
+      "student_id": "003",
+      "name": "Alex Johnson",
+      "age": 19,
+      "gender": "Male",
+      "grade": "A-",
+      "courses": [
+        "History",
+        "Geography",
+        "Spanish"
+      ],
+      "address": {
+        "street": "789 Oak Street",
+        "city": "Somewhere",
+        "state": "Texas",
+        "zipcode": "98765"
+      }
+    },
+    {
+      "student_id": "004",
+      "name": "Emily Brown",
+      "age": 21,
+      "gender": "Female",
+      "grade": "B",
+      "courses": [
+        "Literature",
+        "Art History",
+        "Psychology"
+      ],
+      "address": {
+        "street": "246 Pine Avenue",
+        "city": "Smalltown",
+        "state": "Florida",
+        "zipcode": "34567"
+      }
+    },
+    {
+      "student_id": "005",
+      "name": "Michael Garcia",
+      "age": 23,
+      "gender": "Male",
+      "grade": "B-",
+      "courses": [
+        "Economics",
+        "Political Science",
+        "Sociology"
+      ],
+      "address": {
+        "street": "135 Cedar Lane",
+        "city": "Villagetown",
+        "state": "Illinois",
+        "zipcode": "67890"
+      }
+    },
+    {
+      "student_id": "006",
+      "name": "Sophia Martinez",
+      "age": 20,
+      "gender": "Female",
+      "grade": "A+",
+      "courses": [
+        "Chemistry",
+        "Biology",
+        "Mathematics"
+      ],
+      "address": {
+        "street": "753 Willow Drive",
+        "city": "Hometown",
+        "state": "Ohio",
+        "zipcode": "23456"
+      }
+    },
+    {
+      "student_id": "007",
+      "name": "Ethan Wilson",
+      "age": 22,
+      "gender": "Male",
+      "grade": "A",
+      "courses": [
+        "Computer Science",
+        "Physics",
+        "Mathematics"
+      ],
+      "address": {
+        "street": "982 Birch Street",
+        "city": "Cityville",
+        "state": "Washington",
+        "zipcode": "45678"
+      }
+    },
+    {
+      "student_id": "008",
+      "name": "Olivia Taylor",
+      "age": 19,
+      "gender": "Female",
+      "grade": "A-",
+      "courses": [
+        "English",
+        "History",
+        "Psychology"
+      ],
+      "address": {
+        "street": "456 Walnut Avenue",
+        "city": "Distantcity",
+        "state": "Michigan",
+        "zipcode": "89012"
+      }
+    },
+    {
+      "student_id": "009",
+      "name": "William Anderson",
+      "age": 21,
+      "gender": "Male",
+      "grade": "B+",
+      "courses": [
+        "Sociology",
+        "Political Science",
+        "Economics"
+      ],
+      "address": {
+        "street": "789 Maple Lane",
+        "city": "Farawaytown",
+        "state": "Oregon",
+        "zipcode": "12345"
+      }
+    },
+    {
+      "student_id": "010",
+      "name": "Isabella Thomas",
+      "age": 20,
+      "gender": "Female",
+      "grade": "A-",
+      "courses": [
+        "Art History",
+        "Literature",
+        "Philosophy"
+      ],
+      "address": {
+        "street": "357 Oak Drive",
+        "city": "Mountaincity",
+        "state": "Colorado",
+        "zipcode": "67890"
+      }
+    },
+    {
+      "student_id": "011",
+      "name": "James Rodriguez",
+      "age": 22,
+      "gender": "Male",
+      "grade": "B",
+      "courses": [
+        "Geography",
+        "Spanish",
+        "French"
+      ],
+      "address": {
+        "street": "159 Elm Avenue",
+        "city": "Beachtown",
+        "state": "Florida",
+        "zipcode": "23456"
+      }
+    },
+    {
+      "student_id": "012",
+      "name": "Ava Lopez",
+      "age": 19,
+      "gender": "Female",
+      "grade": "B-",
+      "courses": [
+        "Psychology",
+        "Sociology",
+        "Anthropology"
+      ],
+      "address": {
+        "street": "753 Cedar Lane",
+        "city": "Countryside",
+        "state": "California",
+        "zipcode": "89012"
+      }
+    },
+    {
+      "student_id": "013",
+      "name": "Alexander Lee",
+      "age": 21,
+      "gender": "Male",
+      "grade": "A+",
+      "courses": [
+        "Computer Science",
+        "Mathematics",
+        "Physics"
+      ],
+      "address": {
+        "street": "852 Maple Drive",
+        "city": "Valleytown",
+        "state": "Arizona",
+        "zipcode": "34567"
+      }
+    },
+    {
+      "student_id": "014",
+      "name": "Charlotte Walker",
+      "age": 22,
+      "gender": "Female",
+      "grade": "A-",
+      "courses": [
+        "Biology",
+        "Chemistry",
+        "Environmental Science"
+      ],
+      "address": {
+        "street": "246 Birch Street",
+        "city": "Hilltop",
+        "state": "Tennessee",
+        "zipcode": "45678"
+      }
+    },
+    {
+      "student_id": "015",
+      "name": "Daniel Hernandez",
+      "age": 20,
+      "gender": "Male",
+      "grade": "B+",
+      "courses": [
+        "Economics",
+        "Political Science",
+        "Statistics"
+      ],
+      "address": {
+        "street": "357 Cedar Lane",
+        "city": "Rivercity",
+        "state": "Michigan",
+        "zipcode": "98765"
+      }
+    },
+    {
+      "student_id": "016",
+      "name": "Mia Perez",
+      "age": 21,
+      "gender": "Female",
+      "grade": "A-",
+      "courses": [
+        "Chemistry",
+        "Biology",
+        "Mathematics"
+      ],
+      "address": {
+        "street": "654 Oak Drive",
+        "city": "Harborcity",
+        "state": "California",
+        "zipcode": "23456"
+      }
+    },
+    {
+      "student_id": "017",
+      "name": "David Taylor",
+      "age": 22,
+      "gender": "Male",
+      "grade": "B",
+      "courses": [
+        "English",
+        "History",
+        "Philosophy"
+      ],
+      "address": {
+        "street": "123 Pine Avenue",
+        "city": "Laketown",
+        "state": "Texas",
+        "zipcode": "89012"
+      }
+    },
+    {
+      "student_id": "018",
+      "name": "Emma Garcia",
+      "age": 20,
+      "gender": "Female",
+      "grade": "B-",
+      "courses": [
+        "Psychology",
+        "Sociology",
+        "Anthropology"
+      ],
+      "address": {
+        "street": "456 Elm Street",
+        "city": "Parktown",
+        "state": "Florida",
+        "zipcode": "34567"
+      }
+    },
+    {
+      "student_id": "019",
+      "name": "Joseph Rodriguez",
+      "age": 21,
+      "gender": "Male",
+      "grade": "A",
+      "courses": [
+        "Computer Science",
+        "Mathematics",
+        "Physics"
+      ],
+      "address": {
+        "street": "789 Maple Lane",
+        "city": "Greenvillage",
+        "state": "New York",
+        "zipcode": "67890"
+      }
+    },
+    {
+      "student_id": "020",
+      "name": "Grace Martinez",
+      "age": 19,
+      "gender": "Female",
+      "grade": "A+",
+      "courses": [
+        "Biology",
+        "Chemistry",
+        "Environmental Science"
+      ],
+      "address": {
+        "street": "357 Oak Drive",
+        "city": "Hometown",
+        "state": "California",
+        "zipcode": "12345"
+      }
+    }
+  ]
+}
